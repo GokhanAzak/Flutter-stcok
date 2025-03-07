@@ -1,16 +1,7 @@
-# stok_app
 
-A new Flutter project.
+Stok Takip Sistemi (Flutter)
+Bu proje, Flutter ile geliştirilmiş basit bir stok takip uygulamasıdır. Kullanıcılar yeni ürün ekleyebilir, listeleyebilir ve silebilir. Ayrıca bir giriş ekranı içerir.
+(son derecede temel olan bu uygulama example ve homeworkleriniz için umarım fayda gösterir)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image alt](https://github.com/GokhanAzak/Flutter-stcok_reminder/blob/main/image.png?raw=true)
