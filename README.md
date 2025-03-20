@@ -1,4 +1,4 @@
-## Stok Takip Sistemi (Flutter + SQLite)
+## Stok Takip Sistemi (Flutter + firebase &FİREBASECLOUD)
 Bu proje, Flutter ile geliştirilmiş basit bir stok takip uygulamasıdır. Kullanıcılar **yeni ürün ekleyebilir, listeleyebilir ve silebilir**. Ayrıca bir **giriş doğrulama ekranı** içerir.
 
 _(Son derece temel olan bu uygulama **example** ve **homework** için umarım fayda gösterir.)_
